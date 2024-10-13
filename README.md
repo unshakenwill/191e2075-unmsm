@@ -4,4 +4,4 @@ LaTeX
 Este trabajo ha sido realizado en TexStudio
 
 Gora Ramón, Arian Estéfano
-Latex
+
